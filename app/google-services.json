@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "495884273814",
+    "firebase_url": "https://fir-authentication-b3503.firebaseio.com",
+    "project_id": "fir-authentication-b3503",
+    "storage_bucket": "fir-authentication-b3503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495884273814:android:c3f56fbdfa8f96e7",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495884273814-q2bknr2q44cdavmi8bjrvbatgtlflh2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.firebaseauthentication",
+            "certificate_hash": "5dfb0529ed940bf2b19974f9ade4d14113eb282f"
+          }
+        },
+        {
+          "client_id": "495884273814-i92r5kt4tr5t5iau2rk5r77ao8v80rpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBng3kJtDZEnb3HDiLTcyEA24OZCPZcEd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495884273814-i92r5kt4tr5t5iau2rk5r77ao8v80rpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495884273814:android:ae331d577b6b1065",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.firebasefauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495884273814-j9t76hufn58i104nstujk05259gvfugd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.firebasefauth",
+            "certificate_hash": "5dfb0529ed940bf2b19974f9ade4d14113eb282f"
+          }
+        },
+        {
+          "client_id": "495884273814-i92r5kt4tr5t5iau2rk5r77ao8v80rpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBng3kJtDZEnb3HDiLTcyEA24OZCPZcEd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495884273814-i92r5kt4tr5t5iau2rk5r77ao8v80rpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
